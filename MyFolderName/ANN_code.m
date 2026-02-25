@@ -1,4 +1,3 @@
-NewFolderName/ANN_model
 
 clear; clc;
 
@@ -285,6 +284,7 @@ disp(['selected network Train MAE: ', num2str(selecttrainMAE)]);
 disp(['selected network Test R2: ', num2str(selecttestR2)]);
 disp(['selected network Test RMSE: ', num2str(selecttestRMSE)]);
 disp(['selected network Test MAE: ', num2str(selecttestMAE)]);
+
 
 
 
