@@ -1,4 +1,4 @@
-NewFolderName/ANN_Model.m
+NewFolderName/ANN_model
 
 clear; clc;
 
@@ -288,5 +288,5 @@ disp(['selected network Test MAE: ', num2str(selecttestMAE)]);
 
 
 
-Rename folder
+
 
